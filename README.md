@@ -158,7 +158,7 @@ Publish the website in the given URL.
 
 ![Alt text](image.png)
 
-![Alt text](image-1.png)
+![Alt text](image-2.png)
 
 
 ## RESULT:
